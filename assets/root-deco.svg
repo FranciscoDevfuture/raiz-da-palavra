@@ -1,0 +1,13 @@
+<svg class="root-deco" viewBox="0 0 260 220" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path d="M130 0 L130 60" stroke="#47593A" stroke-width="3"/>
+  <path d="M130 60 C 100 75, 90 85, 70 130" stroke="#47593A" stroke-width="2.5" fill="none"/>
+  <path d="M130 60 C 160 75, 175 90, 190 140" stroke="#47593A" stroke-width="2.5" fill="none"/>
+  <path d="M130 60 C 128 90, 125 110, 130 160" stroke="#47593A" stroke-width="2.5" fill="none"/>
+  <path d="M70 130 C 55 145, 45 155, 35 185" stroke="#6B4A34" stroke-width="2" fill="none"/>
+  <path d="M70 130 C 78 150, 82 165, 78 195" stroke="#6B4A34" stroke-width="2" fill="none"/>
+  <path d="M190 140 C 205 155, 212 165, 218 195" stroke="#6B4A34" stroke-width="2" fill="none"/>
+  <path d="M190 140 C 180 158, 175 170, 178 200" stroke="#6B4A34" stroke-width="2" fill="none"/>
+  <path d="M130 160 C 122 178, 118 190, 122 210" stroke="#6B4A34" stroke-width="2" fill="none"/>
+  <path d="M130 160 C 138 178, 142 190, 138 210" stroke="#6B4A34" stroke-width="2" fill="none"/>
+  <circle cx="130" cy="8" r="5" fill="#A9862F"/>
+</svg>

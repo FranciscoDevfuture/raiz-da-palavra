@@ -1,0 +1,33 @@
+[
+  {
+    "data": "2026-07-14",
+    "tema": "A fé de Abraão",
+    "passagem": "Hebreus 11:8-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-15",
+    "tema": "O bom pastor",
+    "passagem": "João 10:1-18",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-16",
+    "tema": "Plantados junto às águas",
+    "passagem": "Salmo 1:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-17",
+    "tema": "O fruto do Espírito",
+    "passagem": "Gálatas 5:22-23",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-18",
+    "tema": "A oração do Pai Nosso",
+    "passagem": "Mateus 6:9-13",
+    "gerado": true,
+    "arquivo": "estudos/2026-07-18.html"
+  }
+]
