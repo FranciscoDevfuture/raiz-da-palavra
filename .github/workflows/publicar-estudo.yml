@@ -1,0 +1,38 @@
+name: Publicar estudo bíblico diário
+
+on:
+  schedule:
+    # 09:00 UTC = 06:00 no horário de Brasília (UTC-3)
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}   # permite rodar manualmente pela aba "Actions" no GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-e-publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r scripts/requirements.txt
+
+      - name: Gerar o estudo do dia
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/gerar_estudo.py
+
+      - name: Publicar mudanças
+        run: |
+          git config user.name "raiz-da-palavra-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html estudos/ data/temas.json
+          git diff --quiet --cached || git commit -m "Estudo do dia: $(date +'%Y-%m-%d')"
+          git push
