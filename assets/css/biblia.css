@@ -120,6 +120,63 @@
   font-style: italic;
 }
 
+.resultado-busca {
+  display: block;
+  padding: 14px 16px;
+  margin-bottom: 10px;
+  background: var(--white);
+  border: 1px solid var(--ring);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color .2s ease;
+}
+.resultado-busca:hover { border-color: var(--gold); }
+.resultado-busca .ref {
+  display: block;
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--soil);
+  margin-bottom: 4px;
+}
+.resultado-busca mark {
+  background: var(--gold);
+  color: var(--white);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.versiculo.destacado {
+  background: var(--paper-deep);
+  border-radius: 4px;
+  padding: 6px 8px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.busca-info {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  margin-bottom: 16px;
+}
+
+.busca-voltar {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--soil);
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+}
+.busca-voltar:hover { color: var(--gold); }
+
 .creditos-versao {
   margin-top: 40px;
   padding-top: 16px;
