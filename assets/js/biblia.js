@@ -240,8 +240,14 @@ el.fonteMaior.addEventListener("click", () => {
   el.wrapTexto.classList.add("texto-tamanho-grande");
 });
 
-// Inicialização: restaura a última posição de leitura, se houver
-const posicaoSalva = lerPosicaoSalva();
-const versaoInicial = (posicaoSalva && posicaoSalva.versao) || "ntlh";
-el.selectVersao.value = versaoInicial;
-trocarVersao(versaoInicial, posicaoSalva);
+// Inicialização: chamada pela index.html quando a aba "Bíblia" é aberta
+// pela primeira vez (evita baixar o texto bíblico se o usuário nunca abrir a aba)
+window.iniciarLeitorBiblico = function () {
+  const posicaoSalva = lerPosicaoSalva();
+  const versaoInicial = (posicaoSalva && posicaoSalva.versao) || "ntlh";
+  el.selectVersao.value = versaoInicial;
+  trocarVersao(versaoInicial, posicaoSalva);
+};
+
+// Se a página já abrir direto na aba Bíblia (ex: link com #biblia),
+// a própria index.html chama iniciarLeitorBiblico() — nada a fazer aqui.

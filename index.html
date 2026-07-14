@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Raiz da Palavra — Estudos Bíblicos Diários</title>
-<meta name="description" content="Um estudo bíblico novo todos os dias: contexto, explicação e aplicação prática para sua caminhada de fé.">
+<meta name="description" content="Um estudo bíblico novo todos os dias: contexto, explicação e aplicação prática para sua caminhada de fé. Leia também a Bíblia online em várias versões.">
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://franciscodevfuture.github.io/raiz-da-palavra/">
 <meta property="og:title" content="Raiz da Palavra — Estudos Bíblicos Diários">
-<meta property="og:description" content="Um estudo bíblico novo todos os dias: contexto, explicação e aplicação prática para sua caminhada de fé.">
+<meta property="og:description" content="Um estudo bíblico novo todos os dias: contexto, explicação e aplicação prática para sua caminhada de fé. Leia também a Bíblia online em várias versões.">
 <meta property="og:image" content="https://franciscodevfuture.github.io/raiz-da-palavra/assets/img/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -17,10 +17,11 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Raiz da Palavra — Estudos Bíblicos Diários">
-<meta name="twitter:description" content="Um estudo bíblico novo todos os dias: contexto, explicação e aplicação prática para sua caminhada de fé.">
+<meta name="twitter:description" content="Um estudo bíblico novo todos os dias: contexto, explicação e aplicação prática para sua caminhada de fé. Leia também a Bíblia online em várias versões.">
 <meta name="twitter:image" content="https://franciscodevfuture.github.io/raiz-da-palavra/assets/img/og-image.png">
 
 <link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/biblia.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
 </head>
@@ -31,37 +32,72 @@
     <p class="eyebrow">Estudos bíblicos diários</p>
     <h1 class="site-title">Raiz da Palavra</h1>
     <p class="site-tagline">"Ele será como a árvore plantada junto a ribeiros de águas, que dá o seu fruto no seu tempo." — Salmo 1:3</p>
-    <p style="margin-top: 18px;"><a href="biblia.html" style="font-family: var(--sans); font-weight: 600; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.05em;">📖 Ler a Bíblia online &rarr;</a></p>
+
+    <nav class="abas-nav">
+      <button type="button" class="aba-btn ativa" data-aba="estudos">Estudos</button>
+      <button type="button" class="aba-btn" data-aba="biblia">📖 Bíblia</button>
+    </nav>
   </div>
   <img class="root-deco" src="assets/root-deco.svg" alt="" aria-hidden="true">
 </header>
 
 <main>
-  <div class="wrap">
-    <p class="section-label">Estudos publicados</p>
 
-    <div class="timeline">
-      <!-- NOVOS-ESTUDOS-AQUI -->
-      <article class="entry">
-        <span class="data">14 de julho de 2026</span>
-        <h2><a href="estudos/2026-07-14.html">A fé de Abraão</a></h2>
-        <p class="passagem">Hebreus 11:8-10</p>
-      </article>
+  <!-- ABA: ESTUDOS -->
+  <section id="aba-estudos" class="aba-secao ativa">
+    <div class="wrap">
+      <p class="section-label">Estudos publicados</p>
 
-      <article class="entry">
-        <span class="data">14 de julho de 2026</span>
-        <h2><a href="estudos/2026-07-14.html">A fé de Abraão</a></h2>
-        <p class="passagem">Hebreus 11:8-10</p>
-      </article>
-
-      <article class="entry">
-        <span class="data">18 de julho de 2026</span>
-        <h2><a href="estudos/2026-07-18.html">A oração do Pai Nosso</a></h2>
-        <p class="passagem">Mateus 6:9-13</p>
-      </article>
+      <div class="timeline">
+        <!-- NOVOS-ESTUDOS-AQUI -->
+        <article class="entry">
+          <span class="data">18 de julho de 2026</span>
+          <h2><a href="estudos/2026-07-18.html">A oração do Pai Nosso</a></h2>
+          <p class="passagem">Mateus 6:9-13</p>
+        </article>
 <!-- os cartões de cada estudo são inseridos automaticamente logo após esta linha -->
+      </div>
     </div>
-  </div>
+  </section>
+
+  <!-- ABA: BÍBLIA -->
+  <section id="aba-biblia" class="aba-secao">
+    <div class="biblia-controles" style="border-top: 1px solid var(--ring);">
+      <div class="wrap">
+        <div class="controle-linha">
+          <select id="select-versao" class="biblia-select" aria-label="Escolher versão da Bíblia">
+            <option value="ntlh">Linguagem de Hoje (NTLH)</option>
+            <option value="ara">Almeida Revista e Atualizada</option>
+            <option value="nvt">Nova Versão Transformadora</option>
+            <option value="avemaria">Edição Católica (Ave Maria)</option>
+          </select>
+        </div>
+        <div class="controle-linha">
+          <select id="select-livro" class="biblia-select" aria-label="Escolher livro"></select>
+          <select id="select-capitulo" class="biblia-select" aria-label="Escolher capítulo" style="flex: 0 0 80px;"></select>
+        </div>
+        <div class="controle-linha">
+          <div class="nav-capitulo" style="flex: 1;">
+            <button id="btn-anterior" class="nav-btn" type="button">&larr; Anterior</button>
+            <button id="btn-proximo" class="nav-btn" type="button">Próximo &rarr;</button>
+          </div>
+          <div class="fonte-btns">
+            <button id="fonte-menor" class="fonte-btn" type="button" aria-label="Diminuir fonte">A</button>
+            <button id="fonte-maior" class="fonte-btn" type="button" aria-label="Aumentar fonte">A</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="biblia-texto" id="biblia-texto-wrap">
+      <div class="wrap">
+        <div id="biblia-texto-conteudo">
+          <p class="estado-msg">Escolha a versão acima para começar a leitura.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
 </main>
 
 <footer>
@@ -69,6 +105,34 @@
     Raiz da Palavra — um estudo novo a cada dia, publicado automaticamente
   </div>
 </footer>
+
+<script>
+// Alterna entre as abas "Estudos" e "Bíblia" na mesma página
+(function () {
+  const botoes = document.querySelectorAll(".aba-btn");
+  const secoes = {
+    estudos: document.getElementById("aba-estudos"),
+    biblia: document.getElementById("aba-biblia"),
+  };
+  let bibliaCarregada = false;
+
+  function irPara(aba) {
+    botoes.forEach((b) => b.classList.toggle("ativa", b.dataset.aba === aba));
+    Object.entries(secoes).forEach(([nome, el]) => el.classList.toggle("ativa", nome === aba));
+    history.replaceState(null, "", aba === "estudos" ? "#" : "#biblia");
+
+    if (aba === "biblia" && !bibliaCarregada) {
+      bibliaCarregada = true;
+      if (window.iniciarLeitorBiblico) window.iniciarLeitorBiblico();
+    }
+  }
+
+  botoes.forEach((b) => b.addEventListener("click", () => irPara(b.dataset.aba)));
+
+  if (window.location.hash === "#biblia") irPara("biblia");
+})();
+</script>
+<script src="assets/js/biblia.js"></script>
 
 </body>
 </html>

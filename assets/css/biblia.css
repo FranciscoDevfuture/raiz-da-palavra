@@ -1,27 +1,6 @@
 /* ============================================================
-   Raiz da Palavra — Leitor Bíblico
+   Raiz da Palavra — Leitor Bíblico (aba dentro da página inicial)
    ============================================================ */
-
-.biblia-header {
-  padding: 48px 0 32px;
-  border-bottom: 1px solid var(--ring);
-  background: linear-gradient(180deg, var(--paper-deep) 0%, var(--paper) 100%);
-}
-
-.biblia-header h1 {
-  font-family: var(--serif);
-  font-size: clamp(1.8rem, 5vw, 2.6rem);
-  color: var(--moss-deep);
-  margin: 10px 0 6px;
-}
-
-.biblia-header .subtitulo {
-  font-family: var(--serif);
-  font-style: italic;
-  color: var(--ink-soft);
-  font-size: 1rem;
-  margin: 0;
-}
 
 /* ---------- Controles ---------- */
 
