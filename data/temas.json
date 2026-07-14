@@ -10,7 +10,8 @@
     "data": "2026-07-15",
     "tema": "O bom pastor",
     "passagem": "João 10:1-18",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-07-15.html"
   },
   {
     "data": "2026-07-16",
