@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bíblia — Raiz da Palavra</title>
+<meta name="description" content="Leia a Bíblia online em várias versões: Nova Tradução na Linguagem de Hoje, Almeida Revista e Atualizada, Nova Versão Transformadora e Edição Católica.">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://franciscodevfuture.github.io/raiz-da-palavra/biblia.html">
+<meta property="og:title" content="Bíblia Online — Raiz da Palavra">
+<meta property="og:description" content="Leia a Bíblia online em várias versões: NTLH, Almeida Revista e Atualizada, Nova Versão Transformadora e Edição Católica.">
+<meta property="og:image" content="https://franciscodevfuture.github.io/raiz-da-palavra/assets/img/og-image.png">
+<meta property="og:locale" content="pt_BR">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bíblia Online — Raiz da Palavra">
+<meta name="twitter:image" content="https://franciscodevfuture.github.io/raiz-da-palavra/assets/img/og-image.png">
+
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/biblia.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="biblia-header">
+  <div class="wrap">
+    <a class="voltar" href="index.html">&larr; Raiz da Palavra</a>
+    <h1>Bíblia Online</h1>
+    <p class="subtitulo">Leia e compare diferentes versões, no seu ritmo</p>
+  </div>
+</header>
+
+<div class="biblia-controles">
+  <div class="wrap">
+    <div class="controle-linha">
+      <select id="select-versao" class="biblia-select" aria-label="Escolher versão da Bíblia">
+        <option value="ntlh">Linguagem de Hoje (NTLH)</option>
+        <option value="ara">Almeida Revista e Atualizada</option>
+        <option value="nvt">Nova Versão Transformadora</option>
+        <option value="avemaria">Edição Católica (Ave Maria)</option>
+      </select>
+    </div>
+    <div class="controle-linha">
+      <select id="select-livro" class="biblia-select" aria-label="Escolher livro"></select>
+      <select id="select-capitulo" class="biblia-select" aria-label="Escolher capítulo" style="flex: 0 0 80px;"></select>
+    </div>
+    <div class="controle-linha">
+      <div class="nav-capitulo" style="flex: 1;">
+        <button id="btn-anterior" class="nav-btn" type="button">&larr; Anterior</button>
+        <button id="btn-proximo" class="nav-btn" type="button">Próximo &rarr;</button>
+      </div>
+      <div class="fonte-btns">
+        <button id="fonte-menor" class="fonte-btn" type="button" aria-label="Diminuir fonte">A</button>
+        <button id="fonte-maior" class="fonte-btn" type="button" aria-label="Aumentar fonte">A</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="biblia-texto" id="biblia-texto-wrap">
+  <div class="wrap">
+    <div id="biblia-texto-conteudo">
+      <p class="estado-msg">Carregando…</p>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    Raiz da Palavra — os textos bíblicos são de suas respectivas editoras e sociedades bíblicas.
+  </div>
+</footer>
+
+<script src="assets/js/biblia.js"></script>
+</body>
+</html>
