@@ -22,6 +22,7 @@ import sys
 from datetime import date, datetime
 from pathlib import Path
 from string import Template
+from zoneinfo import ZoneInfo
 
 from groq import Groq
 
@@ -82,7 +83,7 @@ def salvar_temas(temas):
 
 def escolher_tema(temas):
     """Prioriza o tema com a data de hoje; senão, pega o próximo pendente."""
-    hoje = date.today().isoformat()
+    hoje = datetime.now(ZoneInfo("America/Sao_Paulo")).date().isoformat()
 
     for item in temas:
         if item["data"] == hoje and not item.get("gerado"):
