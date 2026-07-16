@@ -158,9 +158,17 @@ main { padding: 56px 0 80px; }
   text-transform: uppercase;
   color: var(--soil);
   font-weight: 600;
-  margin: 0 0 28px;
+  margin: 0 0 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid var(--ring);
+}
+
+.publicacao-info {
+  font-family: var(--sans);
+  font-size: 14px;
+  color: var(--soil);
+  opacity: 0.75;
+  margin: 0 0 28px;
 }
 
 .timeline {
