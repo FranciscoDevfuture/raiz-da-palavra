@@ -4,7 +4,7 @@ Raiz da Palavra — gerador diário de estudos bíblicos.
 
 O que este script faz:
 1. Lê a fila de temas em data/temas.json
-2. Encontra o tema referente à data de hoje (ou o próximo ainda não gerado)
+2. Encontra o tema referente à data de hoje (ou o tema atrasado mais antigo)
 3. Pede ao modelo (Groq / LLaMA 3.3 70B) para escrever um estudo completo
 4. Salva o estudo como página HTML em estudos/AAAA-MM-DD.html
 5. Atualiza a lista de estudos em index.html
@@ -82,17 +82,29 @@ def salvar_temas(temas):
 
 
 def escolher_tema(temas):
-    """Prioriza o tema com a data de hoje; senão, pega o próximo pendente."""
+    """Prioriza o tema com a data de hoje; senão, pega o mais antigo atrasado
+    (nunca um tema com data futura, mesmo que já esteja pendente).
+
+    CORREÇÃO: antes, o fallback pegava o "próximo pendente" ordenado por
+    data sem checar se essa data já tinha chegado. Isso fazia o script
+    publicar o estudo de amanhã antecipadamente sempre que rodasse mais
+    de uma vez no mesmo dia (ex: re-run manual, retry após falha) com o
+    tema de hoje já marcado como "gerado". Agora o fallback só considera
+    temas cuja data já passou (atrasados), nunca datas futuras.
+    """
     hoje = datetime.now(ZoneInfo("America/Sao_Paulo")).date().isoformat()
 
     for item in temas:
         if item["data"] == hoje and not item.get("gerado"):
             return item
 
-    pendentes = [t for t in temas if not t.get("gerado")]
-    if not pendentes:
+    atrasados = [
+        t for t in temas
+        if not t.get("gerado") and t["data"] < hoje
+    ]
+    if not atrasados:
         return None
-    return sorted(pendentes, key=lambda t: t["data"])[0]
+    return sorted(atrasados, key=lambda t: t["data"])[0]
 
 
 def chamar_groq(tema, passagem):
