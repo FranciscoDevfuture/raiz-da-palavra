@@ -213,5 +213,39 @@
     "tema": "A fé que agrada a Deus",
     "passagem": "Hebreus 11:1-6",
     "gerado": false
-  }
+  },
+  {
+  "data": "2026-08-18",
+  "tema": "Pedro, a Pedra: Fundamento ou Porta-Voz?",
+  "passagem": "Mateus 16:13-20 (com João 1:42 e 1 Pedro 2:4-8)",
+  "gerado": true
+},
+
+{
+  "data": "2026-08-29",
+  "tema": "O Deus que vê o que ninguém vê",
+  "passagem": "Gênesis 16:7-14",
+  "gerado": false
+},
+
+{
+  "data": "2026-08-20",
+  "tema": "O que fazer quando Deus parece estar em silêncio?",
+  "passagem": "Salmos 13:1-6",
+  "gerado": false
+},
+{
+  "data": "2026-08-21",
+  "tema": "O perigo de viver na superfície",
+  "passagem": "Apocalipse 3:14-22",
+  "gerado": false
+},
+
+{
+  "data": "2026-08-22",
+  "tema": "Quando o impossível se torna a única saída",
+  "passagem": "Juízes 7:1-8",
+  "gerado": false
+},
+
 ]
