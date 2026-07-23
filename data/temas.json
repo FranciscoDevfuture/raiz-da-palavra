@@ -66,7 +66,8 @@
     "data": "2026-07-23",
     "tema": "Os Dez Mandamentos",
     "passagem": "Êxodo 20:1-17",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-07-23.html"
   },
   {
     "data": "2026-07-24",
