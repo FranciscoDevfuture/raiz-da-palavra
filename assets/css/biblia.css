@@ -1,0 +1,187 @@
+/* ============================================================
+   Raiz da Palavra — Leitor Bíblico (aba dentro da página inicial)
+   ============================================================ */
+
+/* ---------- Controles ---------- */
+
+.biblia-controles {
+  padding: 24px 0;
+  border-bottom: 1px solid var(--ring);
+  background: var(--white);
+}
+
+.controle-linha {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.controle-linha:last-child { margin-bottom: 0; }
+
+.biblia-select {
+  flex: 1;
+  min-width: 120px;
+  padding: 10px 12px;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--ring);
+  border-radius: 4px;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%236B4A34' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  padding-right: 30px;
+}
+
+.biblia-select:focus { outline: 2px solid var(--gold); outline-offset: 1px; }
+
+.nav-capitulo {
+  display: flex;
+  gap: 8px;
+  justify-content: space-between;
+}
+
+.nav-btn {
+  flex: 1;
+  padding: 10px;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--moss-deep);
+  background: var(--paper);
+  border: 1px solid var(--ring);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: border-color .2s ease, background .2s ease;
+}
+
+.nav-btn:hover:not(:disabled) { border-color: var(--gold); background: var(--paper-deep); }
+.nav-btn:disabled { opacity: 0.4; cursor: default; }
+
+.fonte-btns {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.fonte-btn {
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--ring);
+  background: var(--paper);
+  border-radius: 4px;
+  font-family: var(--serif);
+  color: var(--moss-deep);
+  cursor: pointer;
+}
+.fonte-btn:hover { border-color: var(--gold); }
+.fonte-btn:nth-child(1) { font-size: 0.8rem; }
+.fonte-btn:nth-child(2) { font-size: 1.1rem; }
+
+/* ---------- Texto ---------- */
+
+.biblia-texto {
+  padding: 36px 0 72px;
+}
+
+.biblia-texto h2 {
+  font-family: var(--serif);
+  color: var(--moss-deep);
+  font-size: 1.6rem;
+  margin: 0 0 24px;
+}
+
+.versiculo {
+  margin: 0 0 14px;
+  line-height: 1.75;
+  font-size: 1.05rem;
+}
+
+.texto-tamanho-pequeno .versiculo { font-size: 0.92rem; }
+.texto-tamanho-grande .versiculo { font-size: 1.2rem; }
+
+.versiculo .num {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--gold);
+  vertical-align: super;
+  margin-right: 4px;
+}
+
+.estado-msg {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--ink-soft);
+  font-family: var(--serif);
+  font-style: italic;
+}
+
+.resultado-busca {
+  display: block;
+  padding: 14px 16px;
+  margin-bottom: 10px;
+  background: var(--white);
+  border: 1px solid var(--ring);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color .2s ease;
+}
+.resultado-busca:hover { border-color: var(--gold); }
+.resultado-busca .ref {
+  display: block;
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--soil);
+  margin-bottom: 4px;
+}
+.resultado-busca mark {
+  background: var(--gold);
+  color: var(--white);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.versiculo.destacado {
+  background: var(--paper-deep);
+  border-radius: 4px;
+  padding: 6px 8px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.busca-info {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  margin-bottom: 16px;
+}
+
+.busca-voltar {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--soil);
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+}
+.busca-voltar:hover { color: var(--gold); }
+
+.creditos-versao {
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid var(--ring);
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  text-align: center;
+}

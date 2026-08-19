@@ -1,0 +1,1032 @@
+[
+  {
+    "data": "2026-07-14",
+    "tema": "A fé de Abraão",
+    "passagem": "Hebreus 11:8-10",
+    "gerado": true,
+    "arquivo": "estudos/2026-07-14.html"
+  },
+  {
+    "data": "2026-07-15",
+    "tema": "O bom pastor",
+    "passagem": "João 10:1-18",
+    "gerado": true,
+    "arquivo": "estudos/2026-07-15.html"
+  },
+  {
+    "data": "2026-07-16",
+    "tema": "Plantados junto às águas",
+    "passagem": "Salmo 1:1-6",
+    "gerado": true,
+    "arquivo": "estudos/2026-07-16.html"
+  },
+  {
+    "data": "2026-07-17",
+    "tema": "O fruto do Espírito",
+    "passagem": "Gálatas 5:22-23",
+    "gerado": true,
+    "arquivo": "estudos/2026-07-17.html"
+  },
+  {
+    "data": "2026-07-18",
+    "tema": "A oração do Pai Nosso",
+    "passagem": "Mateus 6:9-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-19",
+    "tema": "A criação e o cuidado de Deus",
+    "passagem": "Gênesis 1:26-31",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-20",
+    "tema": "A queda e a promessa de graça",
+    "passagem": "Gênesis 3:8-15",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-21",
+    "tema": "José e o perdão aos irmãos",
+    "passagem": "Gênesis 45:1-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-22",
+    "tema": "Moisés e a sarça ardente",
+    "passagem": "Êxodo 3:1-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-23",
+    "tema": "Os Dez Mandamentos",
+    "passagem": "Êxodo 20:1-17",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-24",
+    "tema": "Davi diante de Golias",
+    "passagem": "1 Samuel 17:32-37",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-25",
+    "tema": "A sabedoria pedida por Salomão",
+    "passagem": "1 Reis 3:5-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-26",
+    "tema": "Jó e a confiança em meio ao sofrimento",
+    "passagem": "Jó 1:20-22",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-27",
+    "tema": "O Senhor é o meu pastor",
+    "passagem": "Salmo 23:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-28",
+    "tema": "Confissão e arrependimento",
+    "passagem": "Salmo 51:1-12",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-29",
+    "tema": "A vocação de Isaías",
+    "passagem": "Isaías 6:1-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-30",
+    "tema": "Confiar no Senhor de todo coração",
+    "passagem": "Provérbios 3:5-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-07-31",
+    "tema": "O nascimento de Jesus",
+    "passagem": "Lucas 2:1-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-01",
+    "tema": "O batismo de Jesus",
+    "passagem": "Mateus 3:13-17",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-02",
+    "tema": "As bem-aventuranças",
+    "passagem": "Mateus 5:1-12",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-03",
+    "tema": "Sal da terra e luz do mundo",
+    "passagem": "Mateus 5:13-16",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-04",
+    "tema": "Não andeis ansiosos",
+    "passagem": "Mateus 6:25-34",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-05",
+    "tema": "A parábola do semeador",
+    "passagem": "Mateus 13:1-9",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-06",
+    "tema": "A tempestade acalmada",
+    "passagem": "Marcos 4:35-41",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-07",
+    "tema": "A parábola do filho pródigo",
+    "passagem": "Lucas 15:11-24",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-08",
+    "tema": "A mulher samaritana no poço",
+    "passagem": "João 4:5-26",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-09",
+    "tema": "Eu sou o caminho, a verdade e a vida",
+    "passagem": "João 14:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-10",
+    "tema": "A videira verdadeira",
+    "passagem": "João 15:1-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-11",
+    "tema": "O Espírito Santo em Pentecostes",
+    "passagem": "Atos 2:1-4",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-12",
+    "tema": "Nada nos separa do amor de Deus",
+    "passagem": "Romanos 8:31-39",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-13",
+    "tema": "O hino ao amor",
+    "passagem": "1 Coríntios 13:1-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-14",
+    "tema": "Novas criaturas em Cristo",
+    "passagem": "2 Coríntios 5:17-19",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-15",
+    "tema": "A armadura de Deus",
+    "passagem": "Efésios 6:10-18",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-16",
+    "tema": "Alegrai-vos sempre no Senhor",
+    "passagem": "Filipenses 4:4-7",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-17",
+    "tema": "A fé que agrada a Deus",
+    "passagem": "Hebreus 11:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-18",
+    "tema": "Pedro, a Pedra: Fundamento ou Porta-Voz?",
+    "passagem": "Mateus 16:13-20 (com João 1:42 e 1 Pedro 2:4-8)",
+    "gerado": true
+  },
+  {
+    "data": "2026-08-19",
+    "tema": "Vida nova em Cristo",
+    "passagem": "Colossenses 3:1-17",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-20",
+    "tema": "O que fazer quando Deus parece estar em silêncio?",
+    "passagem": "Salmos 13:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-21",
+    "tema": "O perigo de viver na superfície",
+    "passagem": "Apocalipse 3:14-22",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-22",
+    "tema": "Quando o impossível se torna a única saída",
+    "passagem": "Juízes 7:1-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-23",
+    "tema": "Corramos com perseverança",
+    "passagem": "Hebreus 12:1-2",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-24",
+    "tema": "Sabedoria nas provações",
+    "passagem": "Tiago 1:2-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-25",
+    "tema": "Fé e obras",
+    "passagem": "Tiago 2:14-26",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-26",
+    "tema": "Esperança viva",
+    "passagem": "1 Pedro 1:3-9",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-27",
+    "tema": "Humildade e vigilância",
+    "passagem": "1 Pedro 5:6-11",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-28",
+    "tema": "Deus é amor",
+    "passagem": "1 João 4:7-12",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-29",
+    "tema": "O Deus que vê o que ninguém vê",
+    "passagem": "Gênesis 16:7-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-30",
+    "tema": "Eis que estou à porta e bato",
+    "passagem": "Apocalipse 3:20",
+    "gerado": false
+  },
+  {
+    "data": "2026-08-31",
+    "tema": "Novos céus e nova terra",
+    "passagem": "Apocalipse 21:1-5",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-01",
+    "tema": "O chamado de Abrão",
+    "passagem": "Gênesis 12:1-4",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-02",
+    "tema": "O sacrifício de Isaque",
+    "passagem": "Gênesis 22:1-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-03",
+    "tema": "A escada de Jacó",
+    "passagem": "Gênesis 28:10-17",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-04",
+    "tema": "José vendido pelos irmãos",
+    "passagem": "Gênesis 37:12-28",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-05",
+    "tema": "A travessia do Mar Vermelho",
+    "passagem": "Êxodo 14:10-31",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-06",
+    "tema": "O maná no deserto",
+    "passagem": "Êxodo 16:1-18",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-07",
+    "tema": "A presença de Deus com Moisés",
+    "passagem": "Êxodo 33:12-17",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-08",
+    "tema": "Amarás o teu próximo",
+    "passagem": "Levítico 19:17-18",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-09",
+    "tema": "A bênção sacerdotal",
+    "passagem": "Números 6:24-26",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-10",
+    "tema": "Os doze espias",
+    "passagem": "Números 13:27-33",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-11",
+    "tema": "Ouve, ó Israel",
+    "passagem": "Deuteronômio 6:4-9",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-12",
+    "tema": "Sê forte e corajoso",
+    "passagem": "Deuteronômio 31:6-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-13",
+    "tema": "Escolhei hoje a quem servir",
+    "passagem": "Josué 24:14-15",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-14",
+    "tema": "O chamado de Gideão",
+    "passagem": "Juízes 6:11-16",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-15",
+    "tema": "Aonde fores irei",
+    "passagem": "Rute 1:16-17",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-16",
+    "tema": "O chamado de Samuel",
+    "passagem": "1 Samuel 3:1-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-17",
+    "tema": "A unção de Davi",
+    "passagem": "1 Samuel 16:1-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-18",
+    "tema": "A aliança com Davi",
+    "passagem": "2 Samuel 7:12-16",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-19",
+    "tema": "Natã confronta Davi",
+    "passagem": "2 Samuel 12:1-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-20",
+    "tema": "A viúva de Sarepta",
+    "passagem": "1 Reis 17:8-16",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-21",
+    "tema": "Elias no monte Carmelo",
+    "passagem": "1 Reis 18:20-39",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-22",
+    "tema": "A voz mansa e delicada",
+    "passagem": "1 Reis 19:11-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-23",
+    "tema": "A cura de Naamã",
+    "passagem": "2 Reis 5:1-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-24",
+    "tema": "A elevação de Elias",
+    "passagem": "2 Reis 2:1-12",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-25",
+    "tema": "O coração de Esdras para a Palavra",
+    "passagem": "Esdras 7:6-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-26",
+    "tema": "A alegria do Senhor é a nossa força",
+    "passagem": "Neemias 8:9-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-27",
+    "tema": "Para tal tempo como este",
+    "passagem": "Ester 4:12-16",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-28",
+    "tema": "O Senhor responde a Jó",
+    "passagem": "Jó 38:1-7",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-29",
+    "tema": "Eu sei que o meu Redentor vive",
+    "passagem": "Jó 19:25-27",
+    "gerado": false
+  },
+  {
+    "data": "2026-09-30",
+    "tema": "Tempo para tudo",
+    "passagem": "Eclesiastes 3:1-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-01",
+    "tema": "Como é grande o teu nome",
+    "passagem": "Salmo 8:1-9",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-02",
+    "tema": "Os céus proclamam a glória de Deus",
+    "passagem": "Salmo 19:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-03",
+    "tema": "O Senhor é a minha luz",
+    "passagem": "Salmo 27:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-04",
+    "tema": "Provai e vede que o Senhor é bom",
+    "passagem": "Salmo 34:1-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-05",
+    "tema": "Entrega o teu caminho ao Senhor",
+    "passagem": "Salmo 37:3-7",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-06",
+    "tema": "Deus é o nosso refúgio",
+    "passagem": "Salmo 46:1-5",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-07",
+    "tema": "Como o cervo brama pelas águas",
+    "passagem": "Salmo 42:1-5",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-08",
+    "tema": "Alma minha, bendize ao Senhor",
+    "passagem": "Salmo 103:1-5",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-09",
+    "tema": "Se o Senhor não edificar a casa",
+    "passagem": "Salmo 127:1-2",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-10",
+    "tema": "Sonda-me, Senhor, e conhece o meu coração",
+    "passagem": "Salmo 139:1-12",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-11",
+    "tema": "Bendize, ó minha alma, ao Senhor",
+    "passagem": "Salmo 145:1-9",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-12",
+    "tema": "Tudo quanto tem fôlego louve ao Senhor",
+    "passagem": "Salmo 150:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-13",
+    "tema": "Instrui a criança no caminho",
+    "passagem": "Provérbios 22:6",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-14",
+    "tema": "O ferro com ferro se afia",
+    "passagem": "Provérbios 27:17",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-15",
+    "tema": "A mulher virtuosa",
+    "passagem": "Provérbios 31:10-31",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-16",
+    "tema": "Levanta-te, amiga minha",
+    "passagem": "Cântico dos Cânticos 2:10-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-17",
+    "tema": "Os que esperam no Senhor renovam as forças",
+    "passagem": "Isaías 40:28-31",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-18",
+    "tema": "Ele foi traspassado pelas nossas transgressões",
+    "passagem": "Isaías 53:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-19",
+    "tema": "Vinde, comprai vinho e leite sem dinheiro",
+    "passagem": "Isaías 55:1-3",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-20",
+    "tema": "Não temas, porque eu sou contigo",
+    "passagem": "Isaías 41:10",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-21",
+    "tema": "O Espírito do Senhor está sobre mim",
+    "passagem": "Isaías 61:1-3",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-22",
+    "tema": "Conheço os planos que tenho para vocês",
+    "passagem": "Jeremias 29:11-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-23",
+    "tema": "Antes que te formasse no ventre",
+    "passagem": "Jeremias 1:4-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-24",
+    "tema": "O oleiro e o barro",
+    "passagem": "Jeremias 18:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-25",
+    "tema": "A nova aliança",
+    "passagem": "Jeremias 31:31-34",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-26",
+    "tema": "As misericórdias do Senhor se renovam",
+    "passagem": "Lamentações 3:22-23",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-27",
+    "tema": "Um coração novo vos darei",
+    "passagem": "Ezequiel 36:26-27",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-28",
+    "tema": "O vale dos ossos secos",
+    "passagem": "Ezequiel 37:1-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-29",
+    "tema": "Os três amigos na fornalha",
+    "passagem": "Daniel 3:16-18",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-30",
+    "tema": "Daniel na cova dos leões",
+    "passagem": "Daniel 6:10-23",
+    "gerado": false
+  },
+  {
+    "data": "2026-10-31",
+    "tema": "O sonho da grande estátua",
+    "passagem": "Daniel 2:31-45",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-01",
+    "tema": "Voltemos ao Senhor",
+    "passagem": "Oséias 6:1-3",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-02",
+    "tema": "Rasgai o coração",
+    "passagem": "Joel 2:12-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-03",
+    "tema": "Corra a justiça como as águas",
+    "passagem": "Amós 5:21-24",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-04",
+    "tema": "Jonas no ventre do grande peixe",
+    "passagem": "Jonas 2:1-9",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-05",
+    "tema": "O que o Senhor pede de ti",
+    "passagem": "Miquéias 6:6-8",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-06",
+    "tema": "O Senhor é bom, uma fortaleza",
+    "passagem": "Naum 1:7",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-07",
+    "tema": "Ainda que a figueira não floresça",
+    "passagem": "Habacuque 3:17-19",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-08",
+    "tema": "O Senhor se alegra em ti com cantos",
+    "passagem": "Sofonias 3:17",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-09",
+    "tema": "Considerai os vossos caminhos",
+    "passagem": "Ageu 1:5-9",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-10",
+    "tema": "Não por força nem por violência",
+    "passagem": "Zacarias 4:6",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-11",
+    "tema": "Trazei todos os dízimos",
+    "passagem": "Malaquias 3:6-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-12",
+    "tema": "A parábola dos talentos",
+    "passagem": "Mateus 25:14-30",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-13",
+    "tema": "Ide, fazei discípulos",
+    "passagem": "Mateus 28:16-20",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-14",
+    "tema": "Jesus anda sobre as águas",
+    "passagem": "Mateus 14:22-33",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-15",
+    "tema": "Perdoar setenta vezes sete",
+    "passagem": "Mateus 18:21-35",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-16",
+    "tema": "A cura do paralítico",
+    "passagem": "Marcos 2:1-12",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-17",
+    "tema": "A multiplicação dos pães",
+    "passagem": "Marcos 6:30-44",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-18",
+    "tema": "A confissão de Pedro",
+    "passagem": "Marcos 8:27-30",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-19",
+    "tema": "A oferta da viúva",
+    "passagem": "Marcos 12:41-44",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-20",
+    "tema": "A pesca milagrosa",
+    "passagem": "Lucas 5:1-11",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-21",
+    "tema": "O bom samaritano",
+    "passagem": "Lucas 10:25-37",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-22",
+    "tema": "A parábola da ovelha perdida",
+    "passagem": "Lucas 15:1-7",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-23",
+    "tema": "Zaqueu, o publicano",
+    "passagem": "Lucas 19:1-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-24",
+    "tema": "Os dez leprosos",
+    "passagem": "Lucas 17:11-19",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-25",
+    "tema": "O fariseu e o publicano",
+    "passagem": "Lucas 18:9-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-26",
+    "tema": "As bodas de Caná",
+    "passagem": "João 2:1-11",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-27",
+    "tema": "O cego de nascença",
+    "passagem": "João 9:1-12",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-28",
+    "tema": "Jesus lava os pés dos discípulos",
+    "passagem": "João 13:1-17",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-29",
+    "tema": "A ressurreição de Lázaro",
+    "passagem": "João 11:1-44",
+    "gerado": false
+  },
+  {
+    "data": "2026-11-30",
+    "tema": "A restauração de Pedro",
+    "passagem": "João 21:15-19",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-01",
+    "tema": "A comunhão da igreja primitiva",
+    "passagem": "Atos 2:42-47",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-02",
+    "tema": "A conversão de Paulo",
+    "passagem": "Atos 9:1-19",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-03",
+    "tema": "Filipe e o eunuco etíope",
+    "passagem": "Atos 8:26-40",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-04",
+    "tema": "Pedro liberto da prisão",
+    "passagem": "Atos 12:1-11",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-05",
+    "tema": "Paulo e Silas na prisão",
+    "passagem": "Atos 16:25-34",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-06",
+    "tema": "Paulo em Atenas",
+    "passagem": "Atos 17:22-31",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-07",
+    "tema": "Transformados pela renovação da mente",
+    "passagem": "Romanos 12:1-2",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-08",
+    "tema": "Nada nos poderá separar do amor de Deus",
+    "passagem": "Romanos 5:1-5",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-09",
+    "tema": "O corpo de Cristo",
+    "passagem": "1 Coríntios 12:12-27",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-10",
+    "tema": "A vitória sobre a morte",
+    "passagem": "1 Coríntios 15:50-58",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-11",
+    "tema": "O poder de Deus na fraqueza",
+    "passagem": "2 Coríntios 12:7-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-12",
+    "tema": "Vivo, mas já não eu",
+    "passagem": "Gálatas 2:20",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-13",
+    "tema": "Salvos pela graça",
+    "passagem": "Efésios 2:8-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-14",
+    "tema": "Um só corpo, um só Espírito",
+    "passagem": "Efésios 4:1-6",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-15",
+    "tema": "O hino a Cristo",
+    "passagem": "Filipenses 2:1-11",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-16",
+    "tema": "Tudo posso naquele que me fortalece",
+    "passagem": "Filipenses 4:11-13",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-17",
+    "tema": "A supremacia de Cristo",
+    "passagem": "Colossenses 1:15-20",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-18",
+    "tema": "A vinda do Senhor",
+    "passagem": "1 Tessalonicenses 4:13-18",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-19",
+    "tema": "Um sumo sacerdote compassivo",
+    "passagem": "Hebreus 4:14-16",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-20",
+    "tema": "Aproximai-vos de Deus",
+    "passagem": "Tiago 4:7-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-21",
+    "tema": "Sacerdócio real",
+    "passagem": "1 Pedro 2:9-10",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-22",
+    "tema": "Porque um menino nos nasceu",
+    "passagem": "Isaías 9:2-7",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-23",
+    "tema": "A virgem conceberá",
+    "passagem": "Isaías 7:14",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-24",
+    "tema": "O anúncio a Maria",
+    "passagem": "Lucas 1:26-38",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-25",
+    "tema": "Glória a Deus nas alturas",
+    "passagem": "Lucas 2:8-20",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-26",
+    "tema": "A visita dos magos",
+    "passagem": "Mateus 2:1-12",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-27",
+    "tema": "José, filho de Davi, não temas",
+    "passagem": "Mateus 1:18-25",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-28",
+    "tema": "Simeão recebe o Menino no templo",
+    "passagem": "Lucas 2:25-35",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-29",
+    "tema": "O Verbo se fez carne",
+    "passagem": "João 1:1-14",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-30",
+    "tema": "Revesti-vos de amor",
+    "passagem": "Colossenses 3:12-17",
+    "gerado": false
+  },
+  {
+    "data": "2026-12-31",
+    "tema": "Prosseguindo para o alvo",
+    "passagem": "Filipenses 3:12-14",
+    "gerado": false
+  }
+]
