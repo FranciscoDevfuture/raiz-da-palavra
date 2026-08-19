@@ -5,7 +5,7 @@ Raiz da Palavra — gerador diário de estudos bíblicos.
 O que este script faz:
 1. Lê a fila de temas em data/temas.json
 2. Encontra o tema referente à data de hoje (ou o próximo ainda não gerado)
-3. Pede ao modelo (llama-3.3-70b-instruct) para escrever um estudo completo
+3. Pede ao modelo (openai/gpt-oss-120b) para escrever um estudo completo
 4. Salva o estudo como página HTML em estudos/AAAA-MM-DD.html
 5. Atualiza a lista de estudos em index.html
 6. Marca o tema como "gerado" em data/temas.json
@@ -36,7 +36,7 @@ MESES = [
 ]
 
 # ALTERADO: Modelo atualizado para o disponível na Groq
-MODELO = "llama-3.3-70b-instruct"
+MODELO = "openai/gpt-oss-120b"
 
 SYSTEM_PROMPT = """\
 Você é um teólogo e escritor devocional experiente, que escreve estudos
