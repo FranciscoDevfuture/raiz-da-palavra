@@ -237,7 +237,8 @@
     "data": "2026-08-21",
     "tema": "O perigo de viver na superfície",
     "passagem": "Apocalipse 3:14-22",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-08-21.html"
   },
   {
     "data": "2026-08-22",
