@@ -286,7 +286,8 @@
     "data": "2026-08-28",
     "tema": "Deus é amor",
     "passagem": "1 João 4:7-12",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-08-28.html"
   },
   {
     "data": "2026-08-29",
