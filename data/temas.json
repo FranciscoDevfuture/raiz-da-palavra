@@ -300,7 +300,8 @@
     "data": "2026-08-30",
     "tema": "Eis que estou à porta e bato",
     "passagem": "Apocalipse 3:20",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-08-30.html"
   },
   {
     "data": "2026-08-31",
