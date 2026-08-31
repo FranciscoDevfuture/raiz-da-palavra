@@ -307,7 +307,8 @@
     "data": "2026-08-31",
     "tema": "Novos céus e nova terra",
     "passagem": "Apocalipse 21:1-5",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-08-31.html"
   },
   {
     "data": "2026-09-01",
