@@ -314,7 +314,8 @@
     "data": "2026-09-01",
     "tema": "O chamado de Abrão",
     "passagem": "Gênesis 12:1-4",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-01.html"
   },
   {
     "data": "2026-09-02",
