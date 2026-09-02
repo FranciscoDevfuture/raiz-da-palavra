@@ -321,7 +321,8 @@
     "data": "2026-09-02",
     "tema": "O sacrifício de Isaque",
     "passagem": "Gênesis 22:1-14",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-02.html"
   },
   {
     "data": "2026-09-03",
