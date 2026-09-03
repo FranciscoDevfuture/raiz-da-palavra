@@ -328,7 +328,8 @@
     "data": "2026-09-03",
     "tema": "A escada de Jacó",
     "passagem": "Gênesis 28:10-17",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-03.html"
   },
   {
     "data": "2026-09-04",
