@@ -342,7 +342,8 @@
     "data": "2026-09-05",
     "tema": "A travessia do Mar Vermelho",
     "passagem": "Êxodo 14:10-31",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-05.html"
   },
   {
     "data": "2026-09-06",
