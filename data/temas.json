@@ -363,7 +363,8 @@
     "data": "2026-09-08",
     "tema": "Amarás o teu próximo",
     "passagem": "Levítico 19:17-18",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-08.html"
   },
   {
     "data": "2026-09-09",
