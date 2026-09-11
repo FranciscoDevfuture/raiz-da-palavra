@@ -384,7 +384,8 @@
     "data": "2026-09-11",
     "tema": "Ouve, ó Israel",
     "passagem": "Deuteronômio 6:4-9",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-11.html"
   },
   {
     "data": "2026-09-12",
