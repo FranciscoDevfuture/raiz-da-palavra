@@ -398,7 +398,8 @@
     "data": "2026-09-13",
     "tema": "Escolhei hoje a quem servir",
     "passagem": "Josué 24:14-15",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-13.html"
   },
   {
     "data": "2026-09-14",
