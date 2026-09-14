@@ -405,7 +405,8 @@
     "data": "2026-09-14",
     "tema": "O chamado de Gideão",
     "passagem": "Juízes 6:11-16",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-14.html"
   },
   {
     "data": "2026-09-15",
