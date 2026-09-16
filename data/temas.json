@@ -419,7 +419,8 @@
     "data": "2026-09-16",
     "tema": "O chamado de Samuel",
     "passagem": "1 Samuel 3:1-10",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-16.html"
   },
   {
     "data": "2026-09-17",
