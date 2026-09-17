@@ -426,7 +426,8 @@
     "data": "2026-09-17",
     "tema": "A unção de Davi",
     "passagem": "1 Samuel 16:1-13",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-17.html"
   },
   {
     "data": "2026-09-18",
