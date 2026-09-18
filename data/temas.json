@@ -433,7 +433,8 @@
     "data": "2026-09-18",
     "tema": "A aliança com Davi",
     "passagem": "2 Samuel 7:12-16",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-18.html"
   },
   {
     "data": "2026-09-19",
