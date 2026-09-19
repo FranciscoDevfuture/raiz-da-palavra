@@ -440,7 +440,8 @@
     "data": "2026-09-19",
     "tema": "Natã confronta Davi",
     "passagem": "2 Samuel 12:1-13",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-19.html"
   },
   {
     "data": "2026-09-20",
