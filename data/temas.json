@@ -461,7 +461,8 @@
     "data": "2026-09-22",
     "tema": "A voz mansa e delicada",
     "passagem": "1 Reis 19:11-13",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-22.html"
   },
   {
     "data": "2026-09-23",
