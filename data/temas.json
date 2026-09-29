@@ -510,7 +510,8 @@
     "data": "2026-09-29",
     "tema": "Eu sei que o meu Redentor vive",
     "passagem": "Jó 19:25-27",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-09-29.html"
   },
   {
     "data": "2026-09-30",
