@@ -524,7 +524,8 @@
     "data": "2026-10-01",
     "tema": "Como é grande o teu nome",
     "passagem": "Salmo 8:1-9",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-01.html"
   },
   {
     "data": "2026-10-02",
