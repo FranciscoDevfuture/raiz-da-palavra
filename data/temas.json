@@ -538,7 +538,8 @@
     "data": "2026-10-03",
     "tema": "O Senhor é a minha luz",
     "passagem": "Salmo 27:1-6",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-03.html"
   },
   {
     "data": "2026-10-04",
