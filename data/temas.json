@@ -552,7 +552,8 @@
     "data": "2026-10-05",
     "tema": "Entrega o teu caminho ao Senhor",
     "passagem": "Salmo 37:3-7",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-05.html"
   },
   {
     "data": "2026-10-06",
