@@ -566,7 +566,8 @@
     "data": "2026-10-07",
     "tema": "Como o cervo brama pelas águas",
     "passagem": "Salmo 42:1-5",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-07.html"
   },
   {
     "data": "2026-10-08",
