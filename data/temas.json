@@ -573,7 +573,8 @@
     "data": "2026-10-08",
     "tema": "Alma minha, bendize ao Senhor",
     "passagem": "Salmo 103:1-5",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-08.html"
   },
   {
     "data": "2026-10-09",
