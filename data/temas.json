@@ -587,7 +587,8 @@
     "data": "2026-10-10",
     "tema": "Sonda-me, Senhor, e conhece o meu coração",
     "passagem": "Salmo 139:1-12",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-10.html"
   },
   {
     "data": "2026-10-11",
