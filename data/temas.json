@@ -601,7 +601,8 @@
     "data": "2026-10-12",
     "tema": "Tudo quanto tem fôlego louve ao Senhor",
     "passagem": "Salmo 150:1-6",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-12.html"
   },
   {
     "data": "2026-10-13",
