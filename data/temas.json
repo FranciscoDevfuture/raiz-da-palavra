@@ -622,7 +622,8 @@
     "data": "2026-10-15",
     "tema": "A mulher virtuosa",
     "passagem": "Provérbios 31:10-31",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-15.html"
   },
   {
     "data": "2026-10-16",
