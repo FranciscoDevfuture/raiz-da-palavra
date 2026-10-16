@@ -629,7 +629,8 @@
     "data": "2026-10-16",
     "tema": "Levanta-te, amiga minha",
     "passagem": "Cântico dos Cânticos 2:10-13",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-16.html"
   },
   {
     "data": "2026-10-17",
