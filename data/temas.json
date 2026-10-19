@@ -650,7 +650,8 @@
     "data": "2026-10-19",
     "tema": "Vinde, comprai vinho e leite sem dinheiro",
     "passagem": "Isaías 55:1-3",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-19.html"
   },
   {
     "data": "2026-10-20",
