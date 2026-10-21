@@ -664,7 +664,8 @@
     "data": "2026-10-21",
     "tema": "O Espírito do Senhor está sobre mim",
     "passagem": "Isaías 61:1-3",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-21.html"
   },
   {
     "data": "2026-10-22",
