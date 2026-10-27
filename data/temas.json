@@ -706,7 +706,8 @@
     "data": "2026-10-27",
     "tema": "Um coração novo vos darei",
     "passagem": "Ezequiel 36:26-27",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-27.html"
   },
   {
     "data": "2026-10-28",
