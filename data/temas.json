@@ -713,7 +713,8 @@
     "data": "2026-10-28",
     "tema": "O vale dos ossos secos",
     "passagem": "Ezequiel 37:1-14",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-28.html"
   },
   {
     "data": "2026-10-29",
