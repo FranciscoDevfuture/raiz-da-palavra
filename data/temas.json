@@ -727,7 +727,8 @@
     "data": "2026-10-30",
     "tema": "Daniel na cova dos leões",
     "passagem": "Daniel 6:10-23",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-30.html"
   },
   {
     "data": "2026-10-31",
