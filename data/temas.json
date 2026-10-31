@@ -734,7 +734,8 @@
     "data": "2026-10-31",
     "tema": "O sonho da grande estátua",
     "passagem": "Daniel 2:31-45",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-10-31.html"
   },
   {
     "data": "2026-11-01",
