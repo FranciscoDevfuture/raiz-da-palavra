@@ -748,7 +748,8 @@
     "data": "2026-11-02",
     "tema": "Rasgai o coração",
     "passagem": "Joel 2:12-13",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-02.html"
   },
   {
     "data": "2026-11-03",
