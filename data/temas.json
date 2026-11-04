@@ -762,7 +762,8 @@
     "data": "2026-11-04",
     "tema": "Jonas no ventre do grande peixe",
     "passagem": "Jonas 2:1-9",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-04.html"
   },
   {
     "data": "2026-11-05",
