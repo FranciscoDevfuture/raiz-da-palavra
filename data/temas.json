@@ -769,7 +769,8 @@
     "data": "2026-11-05",
     "tema": "O que o Senhor pede de ti",
     "passagem": "Miquéias 6:6-8",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-05.html"
   },
   {
     "data": "2026-11-06",
