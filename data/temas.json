@@ -776,7 +776,8 @@
     "data": "2026-11-06",
     "tema": "O Senhor é bom, uma fortaleza",
     "passagem": "Naum 1:7",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-06.html"
   },
   {
     "data": "2026-11-07",
