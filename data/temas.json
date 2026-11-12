@@ -818,7 +818,8 @@
     "data": "2026-11-12",
     "tema": "A parábola dos talentos",
     "passagem": "Mateus 25:14-30",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-12.html"
   },
   {
     "data": "2026-11-13",
