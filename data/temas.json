@@ -832,7 +832,8 @@
     "data": "2026-11-14",
     "tema": "Jesus anda sobre as águas",
     "passagem": "Mateus 14:22-33",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-14.html"
   },
   {
     "data": "2026-11-15",
