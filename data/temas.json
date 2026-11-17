@@ -853,7 +853,8 @@
     "data": "2026-11-17",
     "tema": "A multiplicação dos pães",
     "passagem": "Marcos 6:30-44",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-17.html"
   },
   {
     "data": "2026-11-18",
