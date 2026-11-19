@@ -867,7 +867,8 @@
     "data": "2026-11-19",
     "tema": "A oferta da viúva",
     "passagem": "Marcos 12:41-44",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-19.html"
   },
   {
     "data": "2026-11-20",
