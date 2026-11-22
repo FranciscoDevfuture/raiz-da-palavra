@@ -888,7 +888,8 @@
     "data": "2026-11-22",
     "tema": "A parábola da ovelha perdida",
     "passagem": "Lucas 15:1-7",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-22.html"
   },
   {
     "data": "2026-11-23",
