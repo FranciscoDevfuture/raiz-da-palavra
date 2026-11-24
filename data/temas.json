@@ -902,7 +902,8 @@
     "data": "2026-11-24",
     "tema": "Os dez leprosos",
     "passagem": "Lucas 17:11-19",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-24.html"
   },
   {
     "data": "2026-11-25",
