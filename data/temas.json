@@ -909,7 +909,8 @@
     "data": "2026-11-25",
     "tema": "O fariseu e o publicano",
     "passagem": "Lucas 18:9-14",
-    "gerado": false
+    "gerado": true,
+    "arquivo": "estudos/2026-11-25.html"
   },
   {
     "data": "2026-11-26",
